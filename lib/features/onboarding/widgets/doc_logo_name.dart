@@ -16,7 +16,7 @@ class DocLogoAndName extends StatelessWidget {
           width: 10.w,
         ),
         Text('Appointment Booking',
-            style: TextStyleManager.font24Black700Weight),
+            style: TextStyles.font24BlackBold),
       ],
     );
   }
